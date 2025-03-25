@@ -30,7 +30,7 @@ li {
 
 .recipe-list {
     display: block;
-    background-color: rgb(240, 239, 239);
+    background-color: rgb(240, 239, 239, 0.219);
     list-style-type: none;
     padding: 4px 16px;
     margin: 0 auto;
@@ -38,7 +38,7 @@ li {
 }
 
 .header {
-    background-color: rgb(240, 239, 239);
+    background-color: rgba(240, 239, 239, 0.219);
     padding: 4px 16px;
     margin-bottom: 12px;
     border-radius: 8px;
