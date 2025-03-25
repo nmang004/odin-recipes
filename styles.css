@@ -1,3 +1,7 @@
+body {
+    max-width: 900px;;
+}
+
 h1 {
     color: green;
     font-family: Helvetica, Arial, sans-serif;
